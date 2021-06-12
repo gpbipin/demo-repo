@@ -1,8 +1,6 @@
-# Pandas Test
+# Geo Stack
 
-New learnings
+This contains the ad-hoc geo tools i built
 
-## Compare Pandas n Geopandas  
 
-on UK data
 
